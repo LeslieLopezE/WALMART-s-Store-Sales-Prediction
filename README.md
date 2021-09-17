@@ -1,5 +1,4 @@
-# WALMART-s_Store Sales Prediction
-Analyzing WALMART's in-store markdowns and their impact on sales in different seasonal and macroeconomic conditions in US
+# WALMART's Store Sales Prediction : Analyzing WALMART's in-store markdowns and their impact on sales in different seasonal and macroeconomic conditions in US
 
 Executive Summary
 
@@ -25,7 +24,7 @@ The data sets were originally provided by Walmart for recruiting purposes and co
 
 Major findings and conclusions.-
 The results of correlation and regression analysis revealed that the relationship between sales and seasonality, holidays, markdowns, consumer price index and unemployment are muted because of Walmart’s EveryDay Low-Price Strategy (EDLP). Therefore, Walmart must focus on continuing its EDLP strategy and disregard markdowns implemented across all categories at once.
-This research recommends implementing further research at more granular level, since sales are driven by seasonal and macroeconomic factors for each product category.
+This research recommends implementing further research at more granular level, since sales are driven by seasonal and macroeconomic factors for each product category and not as an aggregate (total sales).
 
 Implications for business analytics managers.-
 One key limitation of this study is the aggregated nature of weekly sales. The recommendation to shift markdown investment to other potentially more impactful programs and focus on EDLP serves as a practical example for managers and executives to dispassionately weigh data against pre-conceived ideas. The assumption that markdowns, CPI, unemployment, holidays, and fuel prices have ‘obvious’ impact on sales is a strong bias to look for confirmation. 
