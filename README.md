@@ -31,4 +31,3 @@ One key limitation of this study is the aggregated nature of weekly sales. The r
 
 Limitations of the study.-
 The data acquired from Walmart is more than 5 years old. Since then, significant market changes have occurred that could shape this research differently. The outbreak of Covid-19 inadvertently affected retail dynamics like channel preference (i.e., online), product mix (e.g., in-home dining might increase demand for home-cooked food), pricing considering unemployment rates, and many other factors. Expansion of online channel and specifically Amazon’s rise in the past 5 years could materially impact the findings of this paper as well as pricing, product, supply chain, and other changes that may have been implemented by Walmart within this period.
-
